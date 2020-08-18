@@ -18,3 +18,9 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+Resources
+---------
+
+* A short guide to scimap fio 2019-04-24-a-short-guide-to-scimap-fio.md
+* Conference: http://conf.writethedocs.org/
