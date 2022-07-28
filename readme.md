@@ -1,1 +1,2 @@
-SCIMAP if a geospatial tool for the spatial-targetting of actions in the landscape to mitigate diffuse pollution or flood hazards. 
+#SCIMAP
+SCIMAP is a geospatial tool for the spatial-targetting of actions in the landscape to mitigate diffuse pollution or flood hazards. The approach works by identifying the 'critical source areas' in the landscape. These are the locations where there is a source of the problem, such as sediment, phosphorus, FIOs or flood waters, and where there is an effective pathway to the river or lake. Actions in these locations will be most effective, reducing the cost of mitigation and minimising imapcts on the farm businesses  
